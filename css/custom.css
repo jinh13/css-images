@@ -4,5 +4,10 @@
   background-image: url(img/heading.jpg);
   background-repeat: no-repeat;
   background-size: 800px 750px;
-  background-position: 480px 10px;
+  background-position: 400px;
+  height: 400px;
+}
+
+body{
+  background-color: grey;
 }
